@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=footer" width="100%" alt="Header" />
+</p>
+
 # Bem-vindo(a) ao meu perfil! 👋
 
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP.

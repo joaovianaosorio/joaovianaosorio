@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=100&section=header" width="100%" alt="Header" />
 </p>
+
 # Bem-vindo(a) ao meu perfil! 👋
 
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP.

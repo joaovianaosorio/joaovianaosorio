@@ -29,4 +29,4 @@
 
 ### 📊 GitHub Stats:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaovianaosorio&show-icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=joaovianaosorio&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />

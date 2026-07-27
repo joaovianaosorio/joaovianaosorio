@@ -29,6 +29,4 @@
 
 ### 📊 GitHub Stats:
 
-### 📊 GitHub Stats:
-
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaovianaosorio&show_icons=true&theme=dark)

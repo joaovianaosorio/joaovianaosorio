@@ -29,4 +29,14 @@
 
 ### 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovianaosorio&show_icons=true&theme=teal" alt="Estatísticas do GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovianaosorio&layout=compact&theme=teal" alt="Linguagens Mais Usadas" />
+</p>
+
+---
+
+### 📊 Sequência:
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovianaosorio&theme=dark)

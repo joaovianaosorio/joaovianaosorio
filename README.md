@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=100&section=header" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=150&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!%20👋&fontSize=30&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
 </p>
-
-# Bem-vindo(a) ao meu perfil! 👋
 
 - 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP.
 - 💻 Atualmente estudando lógica de programação, front-end e linguagens como C e Python.

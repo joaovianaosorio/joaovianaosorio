@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=B39DDB&height=120&section=footer" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=120&section=footer" width="100%" alt="Header" />
 </p>
 
 # Bem-vindo(a) ao meu perfil! 👋

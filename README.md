@@ -30,9 +30,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovianaosorio&show_icons=true&theme=teal" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaovianaosorio&show_icons=true&theme=teal" alt="Estatísticas do GitHub" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovianaosorio&layout=compact&theme=teal" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaovianaosorio&layout=compact&theme=teal" alt="Linguagens Mais Usadas" />
 </p>
 
 ---

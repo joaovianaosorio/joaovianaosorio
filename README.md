@@ -39,7 +39,9 @@
 
 ### 📊 Sequência:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovianaosorio&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovianaosorio&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 

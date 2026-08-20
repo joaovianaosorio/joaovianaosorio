@@ -32,7 +32,11 @@
 
 ### 📊 GitHub Stats:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovianaosorio&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats-two.vercel.app/api?username=joaovianaosorio&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=joaovianaosorio&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
+</p>
 
 ---
 

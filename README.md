@@ -51,7 +51,7 @@
 
 ### 📈 Atividade
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaovianaosorio&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovianaosorio&show_icons=true&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=100&section=footer" width="100%" alt="Footer" />
